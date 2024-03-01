@@ -1,1 +1,1 @@
-console.log('Fajlli index.js versioni 1')
+console.log('Fajlli index.js versioni 2')
